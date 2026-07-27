@@ -1,4 +1,8 @@
-MP OTA BLOCKER (v1.0)
+# MP OTA BLOCKER
+
+![Tela Principal](ota.png)
+
+Professional Android OTA Blocker...
 
 Supports Samsung, Xiaomi, Realme (SPD & MTK) and Infinix/Tecno devices.
 Automatic Device Detection
@@ -12,6 +16,8 @@ Clean, lightweight interface with no unnecessary configuration. Designed for qui
 Why Choose MP OTA BLOCKER?
 
 Automatic firmware updates can restore patched security features, interfere with FRP services, MDM removal, PayJoy bypasses and other maintenance procedures.
+
+(main.png)
 
 MP OTA BLOCKER helps technicians maintain complete control over the device software, reducing the risk of unexpected OTA updates while providing a fast and reliable workflow.
 
